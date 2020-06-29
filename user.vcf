@@ -4,10 +4,10 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Brady;Devin;;;
 FN: Devin  Brady 
 ORG:Vivint Smart Home;
-TITLE:Sales Manager\nOKC, Direct to Consumer
+TITLE:Sales Manager\nOKC
 EMAIL;type=INTERNET;type=WORK;type=pref:devinbrady.33@gmail.com
 TEL;type=WORK;type=VOICE:+38 5306 8276
-item1.ADR;type=WORK;type=pref:;;4907 N 300 W;;;84604;Provo UT
+item1.ADR;type=WORK;type=pref:;;4907 N 300 W;;;Provo UT;84604
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.vivint.com
 item2.X-ABLabel:_$!<HomePage>!$_
